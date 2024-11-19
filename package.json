@@ -1,0 +1,24 @@
+{
+  "name": "certcheck",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000c\u0000e\u0000r\u0000t\u0000c\u0000h\u0000e\u0000c\u0000k\u0000\r\u0000 \u0000",
+  "main": "checkCertificate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node checkCertificate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llegouve78/certcheck.git"
+  },
+  "keywords": [
+    "certificate",
+    "date"
+  ],
+  "author": "llg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llegouve78/certcheck/issues"
+  },
+  "homepage": "https://github.com/llegouve78/certcheck#readme"
+}
